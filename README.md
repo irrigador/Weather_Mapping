@@ -1,6 +1,6 @@
 # 1nfluencersmarketing
 
-Visualize o video do projeto nesse [link](https://github.com/facebook/create-react-app).
+Visualize o video do projeto nesse [link](https://www.linkedin.com/feed/update/urn:li:ugcPost:6931271048524886016/).
 
 ## Web Skill Test
 ### JavaScript / Reactjs / Nodejs
