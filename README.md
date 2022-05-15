@@ -5,7 +5,7 @@ Project Figma [link](https://www.figma.com/file/IJ9jD7dT5muud1PsKbuVUZ/Untitled?
 
 View the project video here [link](https://www.linkedin.com/feed/update/urn:li:ugcPost:6931271048524886016/).
 
-Deploy react project* [link](view-source:https://weather-clim.vercel.app/).
+Deploy react project* [link](https://weather-clim.vercel.app/).
 
 ## Web Skill Test
 ### JavaScript / Reactjs / Nodejs
